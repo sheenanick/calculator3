@@ -1,0 +1,10 @@
+#output{
+  margin: 15px;
+
+}
+#helpBlock1, #helpBlock2{
+  display: none;
+}
+.help-block{
+  color: red;
+}
